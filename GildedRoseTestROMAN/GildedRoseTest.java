@@ -57,7 +57,6 @@ class GildedRoseTest {
         );
     }
     
-    
     @Test
     @DisplayName("Prueba de Sulfuras")
     void sulfurasQuality() {
@@ -79,6 +78,7 @@ class GildedRoseTest {
         assertEquals(3, items[0].sellIn, "SellIn debería disminuir en 1");
         assertEquals(50, items[0].quality, "La calidad debería aumentar en 1");
     }
+
 
     
     
