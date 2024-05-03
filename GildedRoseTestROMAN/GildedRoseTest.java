@@ -58,7 +58,7 @@ class GildedRoseTest {
     }
     
     
-    
+
     @Test @DisplayName(value= "Sulfuras Test")
     void sulfurasQuality() {
         
