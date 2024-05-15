@@ -18,7 +18,6 @@
 	<active>1</active>
 
 </testcase>
-
 <testcase internalid="256" name="Acceso continuo durante 8 horas:">
 	<node_order><![CDATA[1001]]></node_order>
 	<externalid><![CDATA[23]]></externalid>
